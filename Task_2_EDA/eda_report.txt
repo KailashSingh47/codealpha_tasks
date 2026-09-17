@@ -1,0 +1,39 @@
+CODEALPHA TASK 2 - EXPLORATORY DATA ANALYSIS
+=======================================================
+
+DATASET OVERVIEW
+------------------------------
+Rows: 100
+Columns: 5
+Missing values: 0
+Duplicate rows: 0
+
+PRICE ANALYSIS
+------------------------------
+Minimum price: 10.16
+Maximum price: 58.11
+Mean price: 34.56
+Median price: 34.78
+
+RATING DISTRIBUTION
+------------------------------
+Rating
+1    22
+2    19
+3    22
+4    18
+5    19
+
+OUTLIER ANALYSIS
+------------------------------
+Number of price outliers: 0
+Lower IQR bound: -22.21
+Upper IQR bound: 90.07
+
+HYPOTHESIS TEST
+------------------------------
+H0: No linear relationship between price and rating.
+H1: A linear relationship exists between price and rating.
+Pearson correlation: -0.1217
+P-value: 0.2276
+Conclusion: No statistically significant linear relationship was detected at the 5% significance level.
